@@ -73,7 +73,7 @@ select {
 .section-title {
 	/* Стили для заголовков во второй секции */
 	font-weight: 700;
-	font-size: 24px;
+	font-size: 25px;
 	margin: 0 0 20px;
 }
 
@@ -81,7 +81,7 @@ select {
 	/* Стили для маркированного списка во второй секции */
 	font-weight: 400;
 	font-size: 16px;
-	padding-left: 20px;
+	padding: 0px 20px;
 	list-style-image: url("../solar.svg");
 }
 
@@ -89,7 +89,7 @@ select {
 	/* Стили для нумерованного списка во второй секции */
 	font-weight: 400;
 	font-size: 16px;
-	padding-left: 20px;
+	padding: 0px 20px;
 }
 
 .label {
@@ -128,7 +128,7 @@ select {
 
 .line {
 	/* Стили для линии */
-	margin: 50px 0;
+	margin: 60px 0;
 }
 
 table {
@@ -144,7 +144,7 @@ table {
 th,
 td {
 	/* Стили для ячеек таблицы */
-	padding: 12px;
+	padding: 12px 15px;
 }
 
 footer {
