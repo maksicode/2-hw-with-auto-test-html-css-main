@@ -6,6 +6,8 @@
 }
 
 body {
+	font-family: "Inter", sans-serif;
+	color: #303030;
 }
 
 header {
@@ -16,7 +18,6 @@ header {
 
 header span {
 	/* Стили для текста в хедере IT-INCUBATOR */
-	font-family: "Inter", sans-serif;
 	font-weight: 700;
 	font-size: 20px;
 	color: #fff;
@@ -32,19 +33,15 @@ header span {
 
 .main-title {
 	/* Стили для заголовка в первой секции */
-	font-family: "Inter", sans-serif;
 	font-weight: 700;
 	font-size: 48px;
-	color: #303030;
 	margin: 20px;
 }
 
 .main-text {
 	/* Стили для текста в первой секции */
-	font-family: "Inter", sans-serif;
 	font-weight: 400;
 	font-size: 18px;
-	color: #303030;
 }
 
 .main-image {
@@ -60,10 +57,8 @@ header span {
 
 select {
 	/* Стили для выпадающего списка */
-	font-family: "Inter", sans-serif;
 	font-weight: 400;
 	font-size: 16px;
-	color: #303030;
 	width: 150px;
 	height: 36px;
 	appearance: none;
@@ -77,38 +72,30 @@ select {
 
 .section-title {
 	/* Стили для заголовков во второй секции */
-	font-family: "Inter", sans-serif;
 	font-weight: 700;
 	font-size: 24px;
-	color: #303030;
 	margin: 0 0 20px;
 }
 
 .frameworks-list {
 	/* Стили для маркированного списка во второй секции */
-	font-family: "Inter", sans-serif;
 	font-weight: 400;
 	font-size: 16px;
-	color: #303030;
 	padding-left: 20px;
 	list-style-image: url("../solar.svg");
 }
 
 .books-list {
 	/* Стили для нумерованного списка во второй секции */
-	font-family: "Inter", sans-serif;
 	font-weight: 400;
 	font-size: 16px;
-	color: #303030;
 	padding-left: 20px;
 }
 
 .label {
 	/* Стили для подписей чекбоксов */
-	font-family: "Inter", sans-serif;
 	font-weight: 400;
 	font-size: 16px;
-	color: #303030;
 }
 
 .text-field {
@@ -118,9 +105,8 @@ select {
 	width: 330px;
 	height: 36px;
 	padding-left: 10px;
-	margin: 0 2px;
+	margin: 10px 2px;
 
-	font-family: "Inter", sans-serif;
 	font-weight: 400;
 	font-size: 16px;
 	color: rgba(48, 48, 48, 0.2);
@@ -135,7 +121,6 @@ select {
 	background-color: #2965f1;
 	margin-left: 8px;
 
-	font-family: "Inter", sans-serif;
 	font-weight: 700;
 	font-size: 14px;
 	color: #fff;
@@ -152,10 +137,8 @@ table {
 	height: 196px;
 	border-collapse: collapse;
 
-	font-family: "Inter", sans-serif;
 	font-weight: 400;
 	font-size: 14px;
-	color: #303030;
 }
 
 th,
@@ -169,7 +152,6 @@ footer {
 	background-color: rgba(163, 167, 255, 0.3);
 	padding: 26px 0;
 
-	font-family: "Inter", sans-serif;
 	font-weight: 400;
 	font-size: 14px;
 	color: #2965f1;
@@ -178,7 +160,6 @@ footer {
 .footer-link {
 	/* Стили для футера */
 	text-decoration: none;
-	font-family: "Inter", sans-serif;
 	font-weight: 400;
 	font-size: 14px;
 	color: #2965f1;
